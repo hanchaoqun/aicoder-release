@@ -10,7 +10,7 @@
 
 ### 安装方案1: 二进制下载
 
--  https://codehub-y.huawei.com/aigroup/aicoder-release/files?ref=master
+-  [https://codehub-y.huawei.com/aigroup/aicoder-release/files?ref=master](https://github.com/hanchaoqun/aicoder-release/blob/main/aicoder-v0.1.0.zip)
 
 ### 安装方案2: 源码编译
 - 如果预安装了musl-gcc则，直接执行`make`或者`make build-go-static`
